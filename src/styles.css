@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #ebebf2;
+}
+
+h1 {
+  color: blue;
+}
+
+h3 {
+  color: red;
+}
+
+input {
+  border-radius: 0.5rem;
+  border: none;
+}
